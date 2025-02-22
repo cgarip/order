@@ -15,3 +15,5 @@
 - **MySQL**: Database for storing data.
 - **JFreeChart**: Library for generating charts.
 - **Apache POI**: Library for exporting data to Excel format.# order
+
+[訂單管理系統簡報](https://github.com/cgarip/order/blob/main/%E8%A8%82%E5%96%AE%E7%AE%A1%E7%90%86%E7%B3%BB%E7%B5%B1.pptx)
